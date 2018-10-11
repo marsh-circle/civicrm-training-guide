@@ -2,7 +2,7 @@
 
 ##Aim
 
-By the end of this session, you should understand how to reduce and manage duplicate contacts
+By the end of this session, you should understand how to reduce and manage duplicate contacts.
 
 ---
 ##Objectives
@@ -15,7 +15,7 @@ Specific objectives:
 ---
 ##Learning points
 
-You should aim to cover the following points in this session
+You should aim to cover the following points in this session:
 
 * What duplicates are and how CiviCRM identifies them
 * How to manually configure the Find and Merge Duplicate Contacts settings
@@ -23,7 +23,7 @@ You should aim to cover the following points in this session
 Extra points that it would be good to go into, if there is time include:
 
 
-  * Merging contacts from search results - that you can merge 2 contacts directly from the contact search results action menu
+  * Merging contacts from search results - that you can merge 2 contacts directly from the contact search results action menu.
 
 ---
 ##Session Plan
@@ -32,7 +32,7 @@ This session should last 45 minutes with the exercises and 30 minutes without.
 
 ### Basic concepts (10 minutes)
 
-With the group talk about what duplicates are and ask the group why they may occur (e.g. from imported data, public form data, added by staff, misspellings).
+With the group, talk about what duplicates are and ask the group why they may occur (e.g. from imported data, public form data, added by staff, misspellings).
 
 Show the group the Find and Merge Duplicate Contacts page and at this stage explain the difference between the Supervised, Unsupervised and General rule types.
 
@@ -75,4 +75,4 @@ You can now ask the learners to complete Exercise 1. This will take around 10 mi
 ---
 ##More useful tools for Duplicates
 
-Explain that the Wiki / CiviCRM book contains more detail on duplicate management. See the Deduping and Merging section.
+Explain that the CiviCRM book contains more detail on duplicate management. See the Deduping and Merging section.
