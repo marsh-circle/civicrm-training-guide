@@ -20,7 +20,7 @@ Initial configuration should be done by a systems administrator.
 
 This session covers:
 
-* How to use of Groups for newsletter subscriptions, and self-serve subscription management. Impact of using search results * instead of groups, or groups named for internal purposes.
+* How to use of Groups for newsletter subscriptions, and self-serve subscription management. Impact of using search results instead of groups, or groups named for internal purposes.
 * How to construct the parts of a personalized mass email and send it.
 * How to send an SMS message.
 * How to schedule reminder emails.
@@ -29,7 +29,7 @@ This session covers:
 ---
 ##Session Plan
 
-This session aims to take 60 minutes.  It includes some front of the class demonstrations (that can be carried out using the CiviCRM that was used to run the training course). Since this session is about sending live email, it is probably worth 1) ensuring that live email can be sent from the environment that you are using, and 2) reinforcing the fact with students' that live email will be sent.
+This session aims to take 60 minutes. It includes some front of the class demonstrations (that can be carried out using the CiviCRM that was used to run the training course). Since this session is about sending live email, it is probably worth 1) ensuring that live email can be sent from the environment that you are using, and 2) reinforcing the fact with students that live email will be sent.
 
 ### Overview (5)
 
@@ -48,43 +48,43 @@ Mention that there are also other parts of CiviCRM where email gets sent (e.g. c
 
 ### Mass mailing / CiviMail
 
-Mass or bulk emailing is also known by other terms, like sending newsletters or sending a mail blast, etc.  It makes sense to split this in two into
+Mass or bulk emailing is also known by other terms, like sending newsletters or sending a mail blast, etc. It makes sense to split this in two into
 
 * mailing list management (covered in some exercises) and
 * creating and sending newsletters
 
 ### Mailing list management (5)
 
-There are two key points to get across here
+There are two key points to get across here:
 
-Groups are the main tool for mailing list management.  These can be smart groups (e.g. meet up attendees)
+1) Groups are the main tool for mailing list management.  These can be smart groups (e.g. meet up attendees).
 
-Ask the class for examples of smart groups that would make sense as mailing lists. Make sure the final list contains
+Ask the class for examples of smart groups that would make sense as mailing lists. Make sure the final list contains:
 
 * members
 * people that have attended an event
-* people that have contributed more than a certain amount
+* people that have contributed more than a certain amount.
 
 Show them the manage groups page where you can create and edit groups: /civicrm/group
 
 Show them that some but not all groups are mailing lists (so if you are wondering why your group is not showing up, it is probably because it is not a mailing list).
 
-2) CiviCRM allows people to control their own subscription to groups
+2) CiviCRM allows people to control their own subscription to groups.
 
 Show people the following page: /civicrm/mailing/subscribe and how this relates to /civicrm/group
 
 Explain difference between unsubscribe (removed from group) and opt out. Indicate that people who have opted out have their On hold status set true as though the email is invalid.
 
-Explain options for unsubscribe
+Explain options for unsubscribe:
 
 * links in each email
-* their contact dashboard
+* their contact dashboard.
 
 ### Creating newsletters (15)
 
 Demonstrate how to create a mailing by walking through the CiviMail wizard on civicrm.org and creating a mailing to the people that have registered to attend this training and to the trainers.
 
-A few key points to make sure that you get across
+A few key points to make sure that you get across:
 
 * Mailings start with groups (might help to create a group and add the students to that group first)
 * Mailings can exclude previous mailings
@@ -94,20 +94,20 @@ A few key points to make sure that you get across
      * litmus - quite expensive - good for layout testing in different browsers
      * http://www.mail-tester.com/ - cheaper and quite effective for spam, at least
 * Mailings can be scheduled
-* Mailings must include an opt out or unsubscribe
+* Mailings must include an opt out or unsubscribe.
 
 Make sure that you include in the email:
 
 * external links for tracking
 * an image that they will have to download images to see
 * a token that is replaced by their name
-* a checksum link to a profile form
+* a checksum link to a profile form.
   The link detail is http://www.organisation.org/civicrm/profile/edit?reset=1&gid=N&id={contact.contact_id}&{contact.checksum} where N is the ID of the profile form you want them to edit.
 The special link lasts for 7 days from the day you send the mailing (in Drupal / Joomla sites).
 
 ### Tokens and checksums
 
- Talk about out of the box tokens and the fact that you can create custom tokens.
+Talk about out of the box tokens and the fact that you can create custom tokens.
 
 Explain what checksums are and get people to think about when they would be useful.  Make sure the final list includes:
 
@@ -118,11 +118,11 @@ Discuss downsides of using checksums, and ask group about possible problems. Mak
 
 Discuss with the group how useful this feature is in terms of being to keep contact data up to date.
 
-Once your email is complete, send the mail.  Have people open the email and click on the links so that you can show them tracking info.
+Once your email is complete, send the mail. Have people open the email and click on the links so that you can show them tracking info.
 
 ### Scheduled reminders (5)
 
-Scheduled reminders are very useful.  Can be based on events, memberships, activities, a date field for a contact.
+Scheduled reminders are very useful. Can be based on events, memberships, activities, a date field for a contact.
 
 Get people to come up with times at which you might want to use scheduled reminders.
 
