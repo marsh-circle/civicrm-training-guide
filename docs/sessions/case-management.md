@@ -11,7 +11,7 @@ Specific objectives:
 
 * Understand the principles behind CiviCase and under what circumstances it can be used
 * Understand how to configure the CiviCase settings
-* Understand the CiviCase interface
+* Understand the CiviCase interface.
 
 ---
 ##Learning points
@@ -20,7 +20,7 @@ You should aim to cover the following points in this session:
 
 * What a case is
 * How to add a new case type
-* How to add new cases and to manage a case
+* How to add new cases and to manage a case.
 
 Extra points that it would be good to go into, if there is time include:
 
@@ -62,7 +62,7 @@ Navigate to Administer->CiviCase->CaseTypes.
 * To add new activity types to a case which don't already exist in CiviCRM, you will need to create new activity types first via the administration menu.
 * If you are adding a Timeline you will need to identify the activities which are included in the timeline and the number of days between each activity (called the offset)
 * Sequences are similar to timelines but are not constrained by time, but are tasks which have to occur in the defined order
-* Determine who will be involved in the case (the case roles). These relationships will have to be added to the Administration / Relationship Types list first
+* Determine who will be involved in the case (the case roles). These relationships will have to be added to the Administration / Relationship Types list first.
 
 ---
 ##More useful tools for Case Management
