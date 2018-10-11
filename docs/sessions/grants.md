@@ -2,7 +2,7 @@
 
 ##Aim
 
-By the end of this session, you should understand how to manage a grants scheme using CiviCRM
+By the end of this session, you should understand how to manage a grants scheme using CiviCRM.
 
 ---
 ##Objectives
@@ -10,12 +10,12 @@ By the end of this session, you should understand how to manage a grants scheme 
 Specific objectives:
 
 - Understand how to configure CiviGrant
-- Understand how to manage the different grants types and produce reports
+- Understand how to manage the different grants types and produce reports.
 
 ---
 ##Learning points
 
-You should aim to cover the following points in this session
+You should aim to cover the following points in this session:
 
 - Grant configuration
 - Adding custom fields
@@ -35,10 +35,10 @@ Add a new Grant type and discuss the large range of custom data which might be r
 
 Explain the grant application process and add a number of grants.
 
-Search for the newly added grants via the Grant Dashboard
+Search for the newly added grants via the Grant Dashboard.
 
-The learners should then do the exercises found in the Grant Handout
+The learners should then do the exercises found in the Grant Handout.
 
 ### More useful tools for Grant
 
-Explain that the Wiki / CiviCRM book contains further detail
+Explain that the CiviCRM book contains further detail.

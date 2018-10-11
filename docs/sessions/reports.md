@@ -6,20 +6,20 @@
 ##Objectives
 
 ---
-##Learning points
+##Learning points:
 
 - Report template system
-- anatomy of a report
+- Anatomy of a report
 - How to consume reports
 
 ---
 ##Session Plan
 
-This session is split into two. A short explanation of reports with accompanying demonstration, and then a set of exercises based on these reports.
+This session is split into two: a short explanation of reports with accompanying demonstration, and then a set of exercises based on these reports.
 
 ### Overview (10)
 
-Main points to get across. It probably helps to talk people through the interface when doing this, and to draw diagrams / list for them on the white board that reflect what you are saying.
+Below are the main points to get across. It probably helps to talk people through the interface when doing this, and to draw diagrams / list for them on the white board that reflect what you are saying.
 
 - Report templates
 

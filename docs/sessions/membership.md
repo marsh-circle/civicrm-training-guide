@@ -2,7 +2,7 @@
 
 ##Aim
 
-Understand CiviMember and be able to manage membership types and memberships
+Understand CiviMember and be able to manage membership types and memberships.
 
 ---
 ##Objectives
@@ -12,24 +12,24 @@ Specific objectives:
 - Understand how to configure CiviMember
 - Understand how to create membership types
 - Understand how to create and manage memberships
-- Understand the membership registration and renewal process
+- Understand the membership registration and renewal process.
 
 ---
 ##Learning points
 
-You should aim to cover the following points in this session
+You should aim to cover the following points in this session:
 
-- Membership building blocks
+- Membership building blocks:
 
     - Membership types
     - Membership status
     - Price sets
     - Custom data
-- Membership management tools
+- Membership management tools:
 
     - Membership dashboard
     - Scheduled reminders
-- Online registration
+- Online registration:
 
     - Pre-populating information
 
@@ -38,7 +38,7 @@ Extra points that it would be good to go into, if there is time include:
 - The CiviDiscount extension
 
 Assumed knowledge:
-That the learners have already been through the Contribute Session
+That the learners have already been through the Contribute Session.
 
 ---
 ##Session Plan
@@ -54,20 +54,20 @@ Outline the main things that you can do with CiviMember and when it is appropria
 
 Introduce the basic concept of membership and renewal dates. Be clear that a single contact can have multiple memberships.
 
-Explain that CiviMember should only be used if one or more of the following applies;
+Explain that CiviMember should only be used if one or more of the following applies:
 
 - You offer memberships with defined benefits and durations
 - Your membership is paid for
 - You want to allow online signup / renewal
-- You want to limit access to website content or features
+- You want to limit access to website content or features.
 
 Show the learners the CiviMember administration pages and discuss the administrative elements behind a membership type.
 
 Describe how CiviMember interacts with the Contribute module and that the membership fee is handled as an associated but distinct contribution.
 
-Explain what memebership statuses are and how they work (automatically move through membership statuses).
+Explain what membership statuses are and how they work (automatically move through membership statuses).
 
-Discuss how over time, a single membership will have a history of contributions representing renewals.
+Discuss how, over time, a single membership will have a history of contributions representing renewals.
 
 Explain how to add Membership signup to a contribution page and that contribution pages can be completed by anonymous or logged in users.
 
@@ -95,7 +95,7 @@ Learners can now complete part 2 of the exercise and if they complete part 2 mov
 
 ### More useful tools for membership
 
-Explain the following tools that can also be used for managing events
+Explain the following tools that can also be used for managing events:
 
 - Price sets - covered in Part 3 of the exercise
 - Discounts
