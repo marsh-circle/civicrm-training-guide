@@ -41,7 +41,7 @@ Present how financial types can hide this complexity from staff who are not trai
 Outline how financial batches are used:
 
 * Batching transactions is a best practice for handling financial transactions.
-* Batching provides a convenient way to ensure audit-ability, and corresponds to to actions like depositing a set of cheques.
+* Batching provides a convenient way to ensure audit-ability, and corresponds to actions like depositing a set of cheques.
 * Explain the process of closing batches, reconciling them, and then exporting them. Note that closed batches can be re-opened and adjusted, but exported batches cannot be changed. Additional change transactions can be created to adjust errors in an exported batch.
 
 ### Configuration of Financial Accounts and Financial Types (10 minutes)
@@ -56,7 +56,7 @@ Outline how financial batches are used:
 
 * Show how to create a batch directly from data entry of offline contributions. Explain the purpose and importance of the number of items and total amount for the batch. Briefly illustrate entering offline memberships.
 * Show how the batches appear in the Open batches. Close them.
-* Show how one can edit a transaction, eg from $10 to $100. Reopen the transaction, include the changed entries, and close it again.
+* Show how one can edit a transaction, e.g. from $10 to $100. Reopen the transaction, include the changed entries, and close it again.
 * Show how to export a batch as either .csv or .iif. Show how to re-export the same batch in case the file was lost or corrupted.
 * Illustrate importing the .iif file into QuickBooks.
 

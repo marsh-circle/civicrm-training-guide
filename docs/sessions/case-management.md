@@ -1,8 +1,8 @@
-# Case Managemente
+# Case Management
 
 ##Aim
 
-By the end of this session, you should understand how to set-up CiviCase and when it can be used
+By the end of this session, you should understand how to set-up CiviCase and when it can be used.
 
 ---
 ##Objectives
@@ -11,16 +11,16 @@ Specific objectives:
 
 * Understand the principles behind CiviCase and under what circumstances it can be used
 * Understand how to configure the CiviCase settings
-* Understand the CiviCase interface
+* Understand the CiviCase interface.
 
 ---
 ##Learning points
 
-You should aim to cover the following points in this session
+You should aim to cover the following points in this session:
 
 * What a case is
 * How to add a new case type
-* How to add new cases and to manage a case
+* How to add new cases and to manage a case.
 
 Extra points that it would be good to go into, if there is time include:
 
@@ -36,7 +36,7 @@ Give the group a basic understanding as to what a case is. That;
 
 * A collection of activities make up a single case
 * A set workflow can be applied to a case (a workflow being a number of set sequenced activities called a Timeline)
-* It is often used where various staff members (or external agencies) need to be involved in a single case*
+* It is often used where various staff members (or external agencies) need to be involved in a single case.
 
 
 Ask the group to give example case types and discuss these. A good simple example is a medical one - 'open case', 'see doctor', ' approved for physiotherapy', 'attend physiotherapy sessions', 'close case'.
@@ -58,11 +58,11 @@ Explain that setting up a new case type requires careful consideration.
 
 Navigate to Administer->CiviCase->CaseTypes.
 
-* The screen lists available activity types including the maximum number of instances of an activity within a case (e.g. open * case should have a maximum instance of 1)
+* The screen lists available activity types including the maximum number of instances of an activity within a case (e.g. open case should have a maximum instance of 1)
 * To add new activity types to a case which don't already exist in CiviCRM, you will need to create new activity types first via the administration menu.
 * If you are adding a Timeline you will need to identify the activities which are included in the timeline and the number of days between each activity (called the offset)
 * Sequences are similar to timelines but are not constrained by time, but are tasks which have to occur in the defined order
-* Determine who will be involved in the case (the case roles). These relationships will have to be added to the Administration / Relationship Types list first
+* Determine who will be involved in the case (the case roles). These relationships will have to be added to the Administration / Relationship Types list first.
 
 ---
 ##More useful tools for Case Management
