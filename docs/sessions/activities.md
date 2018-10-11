@@ -1,6 +1,5 @@
 # Activities
 
----
 ##Aims
 
 By the end of the session you should be able to add, update activities along with understanding how to use them to improve your contact engagement.

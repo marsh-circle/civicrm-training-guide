@@ -1,6 +1,5 @@
 # Organising data
 
----
 ##Aim
 
 Understand how data is organised within CiviCRM, and how to get data in and out of CiviCRM

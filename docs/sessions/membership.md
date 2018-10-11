@@ -1,6 +1,5 @@
 # Membership
 
----
 ##Aim
 
 Understand CiviMember and be able to manage membership types and memberships

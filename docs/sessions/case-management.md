@@ -1,6 +1,5 @@
 # Case Managemente
 
----
 ##Aim
 
 By the end of this session, you should understand how to set-up CiviCase and when it can be used

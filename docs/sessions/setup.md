@@ -1,6 +1,5 @@
 # Set up
 
----
 ##Aim
 
 By the end of this session, you should understand the main CiviCRM configuration settings.

@@ -1,6 +1,5 @@
 # Website integration
 
----
 ##Aim
 
 Understand how CiviCRM relates to its host CMS, the options for host CMS, and the possibilities and drawbacks that are associated with each CMS.

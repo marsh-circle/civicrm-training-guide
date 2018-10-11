@@ -1,6 +1,5 @@
 # Events
 
----
 ##Aim
 
 Understand CiviEvent and be comfortable managing events and participants

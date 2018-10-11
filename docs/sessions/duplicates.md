@@ -1,6 +1,5 @@
 # Duplicates
 
----
 ##Aim
 
 By the end of this session, you should understand how to reduce and manage duplicate contacts

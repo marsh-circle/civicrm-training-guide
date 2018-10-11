@@ -1,6 +1,5 @@
 # Profiles
 
----
 ##Aim
 
 By the end of this session, you should understand how to use Profiles.

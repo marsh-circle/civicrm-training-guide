@@ -1,6 +1,5 @@
 # Communications
 
----
 ##Aim
 
 Learn about the various ways you can use CiviCRM to communicate with contacts.

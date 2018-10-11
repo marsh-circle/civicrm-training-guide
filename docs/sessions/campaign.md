@@ -1,6 +1,5 @@
 # Campaigns, Surveys and Petitions
 
----
 ##Aim
 
 Get familiar with CiviCampaign and the associated components, survey and petition

@@ -1,6 +1,5 @@
 # Contibute
 
----
 ##Aim
 
 By the end of the session, you should be able to manage contribution and contribution pages.
