@@ -1,0 +1,64 @@
+site_name: 'CiviCRM Training Guide'
+#site_url: https://docs.civicrm.org/training/en/stable/
+#repo_url: https://github.com/civicrm/civicrm-training-guide
+repo_url: https://github.com/marsh-circle/civicrm-training-guide
+site_description: 'This guide is aimed at CiviCRM trainers who train users, system administrators and developers who would like to learn more about configuring and using CiviCRM'
+site_author: 'The CiviCRM community'
+theme: material
+markdown_extensions:
+  - attr_list
+  - admonition
+  - def_list
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tilde
+  - pymdownx.betterem
+  - pymdownx.mark
+
+nav:
+  - Preparation for Trainers: introduction-for-trainers.md
+  - Sessions:
+    - Setup: sessions/setup.md
+    - Activities: sessions/activities.md
+    - Organising data: sessions/organising-data.md
+    - Profiles: sessions/profiles.md
+    - Contribute: sessions/contribute.md
+    - Duplicates: sessions/duplicates.md
+    - Website integration: sessions/website-integration.md
+    - Events: sessions/events.md
+    - Membership: sessions/membership.md
+    - Communications: sessions/communications.md
+    - Reports: sessions/reports.md
+    - Case management: sessions/case-management.md
+    - Grant: sessions/grants.md
+    - Campaign: sessions/campaign.md
+    - Accounting Integration: sessions/accounting-integration.md
+  - Handouts:
+    - Introduction to CiviCRM: handout/introduction-to-civicrm.md
+    - Setup: handout/setup.md
+    - Organising data: handout/organising-data.md
+    - Profiles: handout/profiles.md
+    - Contribute: handout/contribute.md
+    - Duplicates: handout/duplicates.md
+    - Website Integration: handout/website-integration.md
+    - Events: handout/events.md
+    - Membership: handout/membership.md
+    - Communications: handout/communications.md
+    - Reports: handout/reports.md
+    - Case Management: handout/case.md
+    - Grants: handout/grants.md
+    - Campaign: handout/campaign.md
+  - Courses:
+    - Admin Training:
+      - Overview for Trainers: courses/preparation-for-courses.md
+      - Admin (1 day): courses/admin-1-day.md
+      - Admin (2 day): courses/admin-2-day.md
+    - Fundraising (1 day): courses/fundraising-1-day.md
+
+# Uncomment to serve locally
+#dev_addr: 0.0.0.0:8011
+#dev_host: 0.0.0.0:8011
