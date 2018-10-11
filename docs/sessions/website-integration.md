@@ -26,9 +26,9 @@ CiviCRM is a CRM. Your CMS is a CMS
 - What do they both stand for?
 - What does the C stand for in each?
 
-Draw them initially as seperate, and then join them together.
+Draw them initially as separate, and then join them together.
 
-Ask people about the
+Ask people about:
 
 - **possibilities**
 
@@ -53,13 +53,6 @@ Tell learners that the main all users are contacts and that all contacts *can be
 Ask people what CMS they are using and ask them what they think of their CMS - what experiences, good and bad they have had. If no-one is using a particular CMS, ask people if they have any experience of that CMS in other roles.
 
 Highlight the advantages and disadvantages of each.
-
-||
-||
-||
-||
-||
-||
 
 ### Permissions (3)
 
