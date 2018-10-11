@@ -1,4 +1,4 @@
-# Contibute
+# Contribute
 
 ##Aim
 
@@ -12,7 +12,7 @@ Become familiar with basic financial concepts in CiviCRM (including payment proc
 ---
 ##Learning points
 
-Things to learn
+Things to learn:
 
 * Basic CiviContribute concepts (contributions, financial types, custom data)
 * Relationship of CiviContribute to other parts of CiviCRM (e.g. contacts, memberships and events)
@@ -22,7 +22,7 @@ Things to learn
 * Premiums
 * Personal campaign pages
 * Sales tax and invoicing
-* Back end contribution admin (including the contribution dashboard, creating and editing contributions, and bulk entry of offline contributions)
+* Back end contribution admin (including the contribution dashboard, creating and editing contributions, and bulk entry of offline contributions).
 
 ---
 ##Session Plan
@@ -33,7 +33,7 @@ This session should take 60 minutes. Explain that we'll cover the basics and tha
 
 Explain that contributions are the basic financial building block of CiviCRM, and that any financial transaction in CiviCRM (whether a donation, membership fee, etc.) is accompanied by a contribution.
 
-Contributions are similar to other CiviCRM entities like contacts.  Ask learners if they can think about how they might be similar.
+Contributions are similar to other CiviCRM entities like contacts. Ask learners if they can think about how they might be similar.
 
 A final list of qualities of contributions should contain:
 
@@ -43,7 +43,7 @@ A final list of qualities of contributions should contain:
 * contributions are always attached to a contact
 * sometimes attached to other entities like participants and memberships
 * Contributions are of a given type which define related financial types (for accounting integration)
-* Contributions can be exported as a spreadsheet, and also in accounting package formats
+* Contributions can be exported as a spreadsheet, and also in accounting package formats.
 
 
 ### Contribution pages (10)
@@ -77,14 +77,14 @@ When recapping the exercises, it might be worth noting the different ways that y
 
 ### Payment processors (5)
 
-Explain that if you want to take transactions on your site you'll need to integrate with a payment processor.  Points to make
+Explain that if you want to take transactions on your site you'll need to integrate with a payment processor.  Points to make:
 
 * There are two types of payment processor
   * on your website (SSL required, smoother workflow)
-  * on the payment processors website (easier and cheaper)
+  * on the payment processor's website (easier and cheaper)
 * All payment processors have different pricing schedules
-* You can see the out of the box integrations on the payment processors page.
-* Other payment processors are available via extensions
+* You can see the out of the box integrations on the payment processors page
+* Other payment processors are available via extensions.
 
 ### Sales Tax and Invoicing (5)
 * Show people the sales tax and invoicing settings pages (administer>CiviContribute>CiviContribute component settings)
@@ -95,4 +95,4 @@ Explain that if you want to take transactions on your site you'll need to integr
 
 ### Personal campaign pages (5)
 * Can be configured from the contribution page admin screens
-* allow you to set up justgiving style pages attached to a contribution page
+* allow you to set up justgiving style pages attached to a contribution page.
