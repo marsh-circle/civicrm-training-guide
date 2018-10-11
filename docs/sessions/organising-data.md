@@ -2,16 +2,16 @@
 
 ##Aim
 
-Understand how data is organised within CiviCRM, and how to get data in and out of CiviCRM
+Understand how data is organised within CiviCRM, and how to get data in and out of CiviCRM.
 
 ---
 ##Objectives
 
 Specific objectives:
 
-- Learn about the core data structures that can be used in CivICRM
+- Learn about the core data structures that can be used in CiviCRM
 - Understand how to extend these data structures with types and custom data
-- Understand how to import data to and export data from CiviCRM
+- Understand how to import data to and export data from CiviCRM.
 
 ---
 ##Learning points
@@ -38,14 +38,14 @@ You should aim to cover the following points in this session:
 
 This session lasts 1 hour when accompanied by exercises.
 
-Explain that we'll be building on what we learnt in the first session about
+Explain that we'll be building on what we learnt in the first session about:
 
 - contacts
 - activities
 - relationships
 - tags and groups
 
-That we are going to go into more detail on
+That we are going to go into more detail on:
 
 - groups and tags
 - relationships
@@ -57,9 +57,9 @@ That we are going to go into more detail on
 People tend to get quite hung up on the difference between groups and tags, and everyone has their own way of using them. Ask if there are any examples from the audience. It is worthwhile giving a few pointers here. Here are some suggestions:
 
 - There is quite a lot of overlap between tags and groups
-- There are some things that groups can do that tags can't, and visa versa (see handout for details)
-- You'll learn from experience when to use one and not the other.
-- You can reasonably easily change from a group to a tag and visa versa (select all contacts with a tag, and add them to a group)
+- There are some things that groups can do that tags can't, and vice versa (see handout for details)
+- You'll learn from experience when to use one and not the other
+- You can reasonably easily change from a group to a tag and vice versa (select all contacts with a tag, and add them to a group)
 
 Take questions from the learners on their use cases.
 
@@ -85,7 +85,7 @@ Explain that you can add extra relationship types to represent different relatio
 
 Ask people what they would do if they wanted to store some extra information about a contact in CiviCRM, for example some extra information about potential funding organisations, like:
 
-- the funders interests
+- the funder's interests
 - the amount of funding that the funder normally gives
 - when the funding deadlines are
 
