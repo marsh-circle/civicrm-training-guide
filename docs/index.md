@@ -4,7 +4,7 @@
 
 This guide is aimed at CiviCRM trainers who train users, system administrators and developers who would like to learn more about configuring and using CiviCRM.
 
-You will find sections for sessions, courses and handouts. Each session covers a discrete topic, and includes aims, learning points, a session plan and exercises. Most sessions also have a corresponding handout in the handouts section. The courses suggest how sessions may be compiled to create training that runs over a longer period of time (maybe one or two days), and may be around a specific topic, such as memberships.
+You will find sections for sessions, courses and handouts. Each session covers a discrete topic, and includes aims, learning points, a session plan and exercises. Most sessions also have a corresponding handout in the handouts section. The courses suggest how sessions may be compiled to create training that runs over a longer period of time (maybe one or two days), and which may be around a specific topic, such as memberships.
 
 The sessions and courses can be run with groups of learners and the trainer will need access to a CiviCRM installation, which is loaded with the standard sample data, a projector and a suitable venue. If you would like the learners to complete the supplied exercises the trainer will also have to ensure that each learner can access their own CiviCRM installation loaded with sample data.
 
